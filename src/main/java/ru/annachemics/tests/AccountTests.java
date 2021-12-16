@@ -1,5 +1,4 @@
 package ru.annachemics.tests;
-
 import io.restassured.response.Response;
 import org.junit.jupiter.api.Test;
 import java.io.*;
