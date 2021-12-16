@@ -12,7 +12,6 @@ public abstract class BaseTest {
     static Properties properties = new Properties();
     protected static String token;
     static String username;
-
     @BeforeAll
     static void beforeAll() {
         RestAssured.enableLoggingOfRequestAndResponseIfValidationFails();
