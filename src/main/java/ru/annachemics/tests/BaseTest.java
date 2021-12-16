@@ -8,7 +8,6 @@ import java.io.FileInputStream;
 import java.io.IOException;
 import java.io.InputStream;
 import java.util.Properties;
-
 public abstract class BaseTest {
     static Properties properties = new Properties();
     protected static String token;
