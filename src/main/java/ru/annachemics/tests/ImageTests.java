@@ -7,6 +7,7 @@ import ru.annachemics.tests.BaseTest;
 import java.io.File;
 import java.io.IOException;
 import java.util.Base64;
+
 import static io.restassured.RestAssured.given;
 import static org.hamcrest.CoreMatchers.is;
 import static org.hamcrest.core.IsNull.notNullValue;

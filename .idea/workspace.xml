@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7e838a5e-eb57-44e5-9a57-56f731d13f50" name="Changes" comment="HW3">
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ru/annachemics/tests/AccountTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/annachemics/tests/AccountTests.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ru/annachemics/tests/BaseTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/annachemics/tests/BaseTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ru/annachemics/tests/ImageTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/annachemics/tests/ImageTests.java" afterDir="false" />
-    </list>
+    <list default="true" id="7e838a5e-eb57-44e5-9a57-56f731d13f50" name="Changes" comment="HomeW3" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -50,7 +45,10 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_directory_selection" value="$PROJECT_DIR$/src/main/java/ru" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
@@ -97,7 +95,21 @@
       <option name="project" value="LOCAL" />
       <updated>1639682778283</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="HomeW3">
+      <created>1639682947377</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1639682947377</updated>
+    </task>
+    <task id="LOCAL-00003" summary="HomeW3">
+      <created>1639683009083</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1639683009083</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -113,6 +125,11 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="HW3" />
-    <option name="LAST_COMMIT_MESSAGE" value="HW3" />
+    <MESSAGE value="HomeW3" />
+    <option name="LAST_COMMIT_MESSAGE" value="HomeW3" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
